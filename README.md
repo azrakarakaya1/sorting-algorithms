@@ -61,16 +61,6 @@ Insertion Sort builds the sorted array one element at a time by inserting each n
 
 ---
 
-## File Overview
-
-| File Name           | Description                          |
-|---------------------|--------------------------------------|
-| `bubble_sort.c`     | Bubble Sort implementation           |
-| `heap_sort.c`       | Heap Sort using Heapify & BuildHeap  |
-| `insertion_sort.c`  | Classic Insertion Sort implementation|
-
----
-
 ## Summary
 
 | Algorithm     | Time (Best) | Time (Average) | Time (Worst) | Space | Stable |
@@ -78,10 +68,4 @@ Insertion Sort builds the sorted array one element at a time by inserting each n
 | Bubble Sort   | O(n²)       | O(n²)          | O(n²)         | O(1)   | Yes |
 | Heap Sort     | O(n log n)  | O(n log n)     | O(n log n)    | O(1)   | No  |
 | Insertion Sort| O(n)        | O(n²)          | O(n²)         | O(1)   | Yes |
-
----
-
-Feel free to run and compare these algorithms with different inputs!
-
-
 
